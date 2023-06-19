@@ -1,0 +1,10 @@
+<svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <g id="contact_icon" transform="translate(-2088 -9049)">
+        <rect data-name="Rectangle 17554" fill="none" height="24" id="Rectangle_17554"
+            transform="translate(2088 9049)" width="24" />
+        <path
+            d="M82.712,143.455v-1.426a9.011,9.011,0,0,0-18.022,0v1.426a5.006,5.006,0,0,0,2,9.588,2,2,0,0,0,2-2v-6.007a2,2,0,0,0-2-2v-1a7.008,7.008,0,0,1,14.016,0v1a2,2,0,0,0-2,2v6.007h-3a1,1,0,0,0,0,2h5.006a5.007,5.007,0,0,0,2-9.588ZM66.693,151.04h0a3,3,0,1,1,0-6.007Zm14.016,0v-6.007a3,3,0,0,1,0,6.007Z"
+            data-name="contact_icon" fill="#121418" id="contact_icon-2"
+            transform="translate(2026.3 8917.97)" />
+    </g>
+</svg>

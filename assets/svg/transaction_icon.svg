@@ -1,0 +1,10 @@
+<svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <g id="transaction_icon" transform="translate(-2244 -9127)">
+        <rect data-name="Rectangle 17578" fill="none" height="24" id="Rectangle_17578"
+            transform="translate(2244 9127)" width="24" />
+        <path
+            d="M122.932,213A3.071,3.071,0,0,1,126,216.068a1,1,0,0,0,2,0v-.123A5.072,5.072,0,0,0,122.932,211H122v-1a1,1,0,0,0-2,0v1h-.932a5.068,5.068,0,0,0-1.6,9.875l2.532.845V229h-.932A3.071,3.071,0,0,1,116,225.932a1,1,0,0,0-2,0v.123A5.072,5.072,0,0,0,119.068,231H120v1a1,1,0,0,0,2,0v-1h.932a5.068,5.068,0,0,0,1.6-9.875L122,220.28V213Zm.97,10.021a3.068,3.068,0,0,1-.97,5.979H122v-6.613Zm-3.9-3.408-1.9-.634A3.068,3.068,0,0,1,119.07,213H120Z"
+            data-name="transaction_icon" fill="#121418" id="transaction_icon-2"
+            transform="translate(2135 8918)" />
+    </g>
+</svg>

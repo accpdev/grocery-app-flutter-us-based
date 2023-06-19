@@ -1,0 +1,37 @@
+<svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <g id="refer_friend_icon" transform="translate(-2361 -9088)">
+        <rect data-name="Rectangle 17571" fill="none" height="24" id="Rectangle_17571"
+            transform="translate(2361 9088)" width="24" />
+        <g data-name="refer_friend_icon" id="refer_friend_icon-2"
+            transform="translate(2361.911 9088.944)">
+            <g id="refers_friend" transform="translate(-0.231)">
+                <g id="email">
+                    <g id="user_name">
+                        <rect data-name="Rectangle 2711" fill="none" height="21.584"
+                            id="Rectangle_2711" width="22.663" />
+                    </g>
+                </g>
+            </g>
+            <g data-name="Icon feather-gift" id="Icon_feather-gift" transform="translate(0.033)">
+                <path d="M23.355,17V28.053H5.666V17" data-name="Path 7074" fill="none"
+                    id="Path_7074" stroke="#121418" stroke-linecap="round" stroke-linejoin="round"
+                    stroke-width="1.889" transform="translate(-3.454 -5.941)" />
+                <path d="M2.833,9.915H24.944v5.528H2.833Z" data-name="Path 7075" fill="none"
+                    id="Path_7075" stroke="#121418" stroke-linecap="round" stroke-linejoin="round"
+                    stroke-width="1.889" transform="translate(-2.833 -4.387)" />
+                <path d="M17,26.5V9.915" data-name="Path 7076" fill="none" id="Path_7076"
+                    stroke="#121418" stroke-linecap="round" stroke-linejoin="round"
+                    stroke-width="1.889" transform="translate(-5.941 -4.387)" />
+                <path
+                    d="M14.825,8.361H9.846a2.764,2.764,0,0,1,0-5.528C13.716,2.833,14.825,8.361,14.825,8.361Z"
+                    data-name="Path 7077" fill="none" id="Path_7077" stroke="#121418"
+                    stroke-linecap="round" stroke-linejoin="round" stroke-width="1.889"
+                    transform="translate(-3.766 -2.833)" />
+                <path d="M17,8.361h4.975a2.764,2.764,0,1,0,0-5.528C18.1,2.833,17,8.361,17,8.361Z"
+                    data-name="Path 7078" fill="none" id="Path_7078" stroke="#121418"
+                    stroke-linecap="round" stroke-linejoin="round" stroke-width="1.889"
+                    transform="translate(-5.941 -2.833)" />
+            </g>
+        </g>
+    </g>
+</svg>

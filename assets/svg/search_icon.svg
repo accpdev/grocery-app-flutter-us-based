@@ -1,0 +1,10 @@
+<svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <g id="search_icon" transform="translate(-2400 -9088)">
+        <rect data-name="Rectangle 17572" fill="none" height="24" id="Rectangle_17572"
+            transform="translate(2400 9088)" width="24" />
+        <path
+            d="M23.638,22.229l-5.952-5.954a9.985,9.985,0,1,0-1.412,1.412l5.952,5.952a1,1,0,1,0,1.41-1.41ZM9.972,17.948a7.977,7.977,0,1,1,7.977-7.977,7.977,7.977,0,0,1-7.977,7.977Z"
+            data-name="search_icon" fill="#121418" id="search_icon-2"
+            transform="translate(2400.03 9088.028)" />
+    </g>
+</svg>

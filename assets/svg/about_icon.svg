@@ -1,0 +1,13 @@
+<svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <g id="about_icon" transform="translate(-62 -171)">
+        <path
+            d="M74,171a12,12,0,1,0,12,12A12,12,0,0,0,74,171Zm0,22a10,10,0,1,1,10-10A10,10,0,0,1,74,193Z"
+            data-name="Path 7162" fill="#121418" id="Path_7162" />
+        <path
+            d="M74.087,181H73.043a1.043,1.043,0,1,0,0,2.087h1.043v6.26a1.043,1.043,0,1,0,2.087,0v-6.26A2.086,2.086,0,0,0,74.087,181Z"
+            data-name="Path 7163" fill="#121418" id="Path_7163"
+            transform="translate(-0.087 -0.26)" />
+        <circle cx="1.565" cy="1.565" data-name="Ellipse 52" fill="#121418" id="Ellipse_52"
+            r="1.565" transform="translate(72.435 175.969)" />
+    </g>
+</svg>

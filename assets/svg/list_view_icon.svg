@@ -1,0 +1,24 @@
+<svg height="24" viewBox="0 0 24.001 24" width="24.001" xmlns="http://www.w3.org/2000/svg">
+    <g id="list_view_icon" transform="translate(-2400 -9049)">
+        <rect data-name="Rectangle 17562" fill="none" height="24" id="Rectangle_17562"
+            transform="translate(2400 9049)" width="24" />
+        <g data-name="list_view_icon" id="list_view_icon-2"
+            transform="translate(2399.553 9049.041)">
+            <path d="M7.053,6.106H23.9A1.053,1.053,0,0,0,23.9,4H7.053a1.053,1.053,0,1,0,0,2.106Z"
+                data-name="Path 7125" fill="#121418" id="Path_7125"
+                transform="translate(-0.505 0.053)" />
+            <path d="M23.9,11H7.053a1.053,1.053,0,0,0,0,2.106H23.9A1.053,1.053,0,0,0,23.9,11Z"
+                data-name="Path 7126" fill="#121418" id="Path_7126"
+                transform="translate(-0.505 0.274)" />
+            <path d="M23.9,18H7.053a1.053,1.053,0,1,0,0,2.106H23.9A1.053,1.053,0,0,0,23.9,18Z"
+                data-name="Path 7127" fill="#121418" id="Path_7127"
+                transform="translate(-0.505 0.509)" />
+            <circle cx="2" cy="2" data-name="Ellipse 45" fill="#121418" id="Ellipse_45" r="2"
+                transform="translate(0.606 2.602)" />
+            <circle cx="2.023" cy="2.023" data-name="Ellipse 46" fill="#121418" id="Ellipse_46"
+                r="2.023" transform="translate(0.447 10.334)" />
+            <circle cx="2" cy="2" data-name="Ellipse 47" fill="#121418" id="Ellipse_47" r="2"
+                transform="translate(0.606 17.317)" />
+        </g>
+    </g>
+</svg>
